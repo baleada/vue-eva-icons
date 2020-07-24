@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except these files
+!/lib/**/*.js
+!/eva-icons/**/*.js
+!/simple-icons/**/*.js
+!/heroicons/**/*.js
+!/octicons/**/*.js
