@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/baleada/vue-eva-icons.git"
+    "url": "git+https://github.com/baleada/vue-eva-icons.git"
   },
   "keywords": [
     "baleada",
@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/baleada/vue-eva-icons/issues"
+    "url": "https://github.com/baleada/vue-eva-icons/issues"
   },
   "homepage": "https://baleada.netlify.com",
   "devDependencies": {
